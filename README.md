@@ -126,6 +126,7 @@ python main.py
 ```
 Logistic Regression Accuracy: 88.52%
 XGBoost Accuracy: 83.61%
+Rainforest Accuracy: 85.61%
 Naive Bayes Accuracy: 85.25%
 Support Vector Machine Accuracy: 81.97%
 ```
