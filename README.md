@@ -214,14 +214,5 @@ cardiovascular_deep_learning-/
 🚀 **Happy Coding!**  
 ```
 
----
-
-### 📌 **Next Steps**
-1️⃣ **Save this as `README.md` in your project root**  
-2️⃣ **Commit & Push to GitHub**
-```sh
-git add .
-git commit -m "Updated README with detailed model performance"
-git push origin main
 ```
 
